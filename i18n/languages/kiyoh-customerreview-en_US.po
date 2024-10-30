@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kiyoh_customerreview\n"
+"POT-Creation-Date: 2018-06-21 10:50+0300\n"
+"PO-Revision-Date: 2018-06-21 10:50+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /var/www/kiyoh_woocommerce\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:39
+msgid "Kiyoh: php extension Curl is not installed"
+msgstr ""
+
+#: kiyoh-customerreview.php:141
+msgid "Kiyoh Customerreview Settings"
+msgstr ""
+
+#: kiyoh-customerreview.php:144
+msgid "Settings saved."
+msgstr ""
+
+#: kiyoh-customerreview.php:151
+msgid "Module Version"
+msgstr ""
+
+#: kiyoh-customerreview.php:157
+msgid "Enable"
+msgstr ""
+
+#: kiyoh-customerreview.php:165
+msgid ""
+"Recommended Value is Yes. On setting it to NO, module ll stop sending email "
+"invites to customers."
+msgstr ""
+
+#: kiyoh-customerreview.php:169
+msgid "Email send method"
+msgstr ""
+
+#: kiyoh-customerreview.php:174
+msgid "Send emails from my server"
+msgstr ""
+
+#: kiyoh-customerreview.php:178
+msgid "Send emails from Kiyoh server"
+msgstr ""
+
+#: kiyoh-customerreview.php:184
+msgid "Company Name"
+msgstr ""
+
+#: kiyoh-customerreview.php:189
+msgid "Link rate"
+msgstr ""
+
+#: kiyoh-customerreview.php:192
+msgid ""
+"Enter here the link to the review (Easy Invite Link). Please contact Kiyoh "
+"and they provide you the correct link."
+msgstr ""
+
+#: kiyoh-customerreview.php:196
+msgid "Sender Email"
+msgstr ""
+
+#: kiyoh-customerreview.php:201
+msgid "Enter delay"
+msgstr ""
+
+#: kiyoh-customerreview.php:204
+msgid ""
+"Enter here the delay(number of days) after which you would like to send "
+"review invite option). You may enter 0 to send review invite email "
+"immediately after customer event. Cron should be configured for values>0"
+msgstr ""
+
+#: kiyoh-customerreview.php:208
+msgid "Select Event"
+msgstr ""
+
+#: kiyoh-customerreview.php:221
+msgid ""
+"Enter here the event after which you would like to send review invite email "
+"to your customer."
+msgstr ""
+
+#: kiyoh-customerreview.php:225
+msgid "Order Status"
+msgstr ""
+
+#: kiyoh-customerreview.php:263
+msgid "Select Server"
+msgstr ""
+
+#: kiyoh-customerreview.php:278
+msgid "Enter Connector"
+msgstr ""
+
+#: kiyoh-customerreview.php:282
+msgid "Enter here the Kiyoh Connector Code from your Kiyoh Account."
+msgstr ""
+
+#: kiyoh-customerreview.php:286
+msgid "Company Email"
+msgstr ""
+
+#: kiyoh-customerreview.php:290
+msgid ""
+"Enter here your \"company email address\" as registered in your KiyOh "
+"account. Not the \"user email address\"!"
+msgstr ""
+
+#: kiyoh-customerreview.php:294
+msgid "Language email template"
+msgstr ""
+
+#: kiyoh-customerreview.php:357
+msgid "Exclude customer groups"
+msgstr ""
+
+#: kiyoh-customerreview.php:362
+msgid "Email template (English)"
+msgstr ""
+
+#: kiyoh-customerreview.php:368
+msgid "Email template (Dutch)"
+msgstr ""
+
+#: kiyoh-customerreview.php:375
+msgid "You need install and activate WooCommerce plugin"
+msgstr ""
+
+#: widget.php:46
+msgid "Rating"
+msgstr ""
+
+#: widget.php:47
+#, php-format
+msgid "out of %s, based on"
+msgstr ""
+
+#: widget.php:49
+msgid "customer reviews"
+msgstr ""
+
+#: widget.php:113
+msgid "Company Id"
+msgstr ""
+
+#: widget.php:117
+msgid "Enter here your \"Company Id\" as registered in your KiyOh account."
+msgstr ""
